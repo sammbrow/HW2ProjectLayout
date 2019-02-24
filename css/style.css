@@ -272,6 +272,7 @@ a.skiptomain:focus{
 footer{
   background-color: white;
   padding: 10% 5%;
+  font-family: avenir, 'Nunito', sans-serif;
 }
 
 .fab fa-linkedin fa-lg{
@@ -328,7 +329,7 @@ footer{
 /*  Media screens start! --------------------------------*/
 
 @media screen and (min-width:700px){
-	body{background: yellow;
+	body{background: white;
 	}
 	.gallery{
 		display: flex;s
@@ -344,7 +345,7 @@ footer{
 }
 
 @media screen and (min-width:1200px){
-	body{background: green;
+	body{background: white;
 	}
 	.gallery{
 		display: flex;
